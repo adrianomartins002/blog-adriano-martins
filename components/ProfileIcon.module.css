@@ -1,0 +1,20 @@
+
+.perfil{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 40px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfil img{
+    width: 60px;
+    height: 60px;
+    border-radius: 25px;
+}
+
+.perfil span{
+    font-weight: 500;
+    padding-left: 10px;
+}
